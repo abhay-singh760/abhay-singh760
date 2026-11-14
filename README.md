@@ -1,3 +1,5 @@
+<img src="https://github.com/abhay-singh760/abhay-singh760/blob/main/1.png" alt="Hello world">
+
 ## About Me 😊
 
 Hey there! I'm Abhay Yadav, a Software Engineering student and full-stack developer who loves turning ideas into real, working software.
